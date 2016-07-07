@@ -2,7 +2,7 @@
 
 ### This gulp configuration was created for basic angular applications.
 
-I used only few basic packages, which help compile sass/haml/js files:
+I used only few basic packages, which help to compile sass/haml/js files:
 * [```gulp-watch```](https://github.com/floatdrop/gulp-watch)
 * [```gulp-plumber```](https://github.com/floatdrop/gulp-plumber)
 * [```gulp-angular-filesort```](https://github.com/klei/gulp-angular-filesort)
